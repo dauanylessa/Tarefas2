@@ -1,0 +1,10 @@
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/bin/Debug/netcoreapp2.0/Tarefas2.deps.json
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/bin/Debug/netcoreapp2.0/Tarefas2.runtimeconfig.json
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/bin/Debug/netcoreapp2.0/Tarefas2.runtimeconfig.dev.json
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/bin/Debug/netcoreapp2.0/Tarefas2.dll
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/bin/Debug/netcoreapp2.0/Tarefas2.pdb
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.csproj.CoreCompileInputs.cache
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.AssemblyInfoInputs.cache
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.AssemblyInfo.cs
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.dll
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.pdb
