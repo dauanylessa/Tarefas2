@@ -8,3 +8,4 @@
 /home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.AssemblyInfo.cs
 /home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.dll
 /home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.pdb
+/home/igor/Arquivos/Dropbox/Igor/Aprendizagem/dotnet2/Tarefas2/Tarefas2/obj/Debug/netcoreapp2.0/Tarefas2.csprojResolveAssemblyReference.cache
