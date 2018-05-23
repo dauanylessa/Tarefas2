@@ -1,0 +1,24 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç AE63-6293
+
+ Pasta de C:\Users\Igor\Documents\Tarefas2\Tarefas2
+
+22/05/2018  21:15    <DIR>          .
+22/05/2018  21:15    <DIR>          ..
+22/05/2018  20:47                36 .bowerrc
+22/05/2018  20:47               178 appsettings.Development.json
+22/05/2018  20:47               113 appsettings.json
+22/05/2018  20:47    <DIR>          bin
+22/05/2018  20:47               207 bower.json
+22/05/2018  20:47               628 bundleconfig.json
+22/05/2018  20:47    <DIR>          Controllers
+22/05/2018  20:47    <DIR>          Models
+22/05/2018  20:47    <DIR>          obj
+22/05/2018  20:47               625 Program.cs
+22/05/2018  20:47             1.427 Startup.cs
+22/05/2018  20:47               397 Tarefas2.csproj
+22/05/2018  21:15                 0 teste.txt
+22/05/2018  20:47    <DIR>          Views
+22/05/2018  20:47    <DIR>          wwwroot
+               9 arquivo(s)          3.611 bytes
+               8 pasta(s)   63.037.059.072 bytes dispon°veis
